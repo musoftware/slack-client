@@ -1,5 +1,5 @@
 {
-    "name": "mpociot/slack-client",
+    "name": "musoftware/slack-client",
     "keywords": ["slack", "api", "realtime"],
     "license": "MIT",
     "description": "A better Slack client, with RTM API support",
